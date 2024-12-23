@@ -1,2 +1,2 @@
-mergekit==0.1.0
+mergekit==0.0.5.1
 transformers==4.11.3
